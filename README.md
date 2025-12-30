@@ -21,7 +21,9 @@ hobby; I usually create games and utilities for them.
 
 I like the color red
 
-Oh, and by the way, I learned the vast majority of the programming languages ​​I know through various AI programs and other helpful sources.
+Oh, and by the way, I learned the vast majority of the programming languages ​​I know through
+<br>
+various AI programs and other helpful sources.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Python,+C%23,+C%2B%2B,+C,+Java;Lua,+Shell,+Batch,+CMake;HTML,+CSS,+JS,+TS;SDFX,+Unity,+Love2D" alt="Typing SVG" />
 
@@ -66,6 +68,8 @@ Oh, and by the way, I learned the vast majority of the programming languages ​
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 8.1](https://img.shields.io/badge/Windows_8.1-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
 ![NomadBSD](https://img.shields.io/badge/NomadBSD-005A9C?style=for-the-badge&logo=freebsd&logoColor=white)
+
+**Other things of mine**
 
 ![SDFX Grupe](https://img.shields.io/badge/Company-SDFX_Grupe-FF0000?style=for-the-badge&logo=github&logoColor=white)
 
