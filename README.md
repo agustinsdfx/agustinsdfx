@@ -25,7 +25,7 @@ Oh, and by the way, I learned the vast majority of the programming languages ​
 <br>
 various AI programs and other helpful sources.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Python,+C%23,+C%2B%2B,+C,+Java;Lua,+Shell,+Batch,+CMake;HTML,+CSS,+JS,+TS;SDFX,+Unity,+Love2D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Building+Engines+and+Utilities;Game+Dev+and+Systems+Programming;Multi-language+Enthusiast;Mastering+C%2B%2B%2C+Python+%26+Lua" alt="Typing SVG" />
 
 **Programming languages ​​that I know and use**
 
