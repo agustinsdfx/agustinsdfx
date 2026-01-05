@@ -75,7 +75,7 @@ various AI programs and other helpful sources.
 
 **Operating systems I use**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows 8.1](https://img.shields.io/badge/Windows_8.1-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
 ![NomadBSD](https://img.shields.io/badge/NomadBSD-005A9C?style=for-the-badge&logo=freebsd&logoColor=white)
 
