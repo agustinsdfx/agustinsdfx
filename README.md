@@ -10,10 +10,9 @@
 
 ### About me
 
-
-Hi, I'm Agustin, or AGUSTINSDFX, the mind behind projects like
+Hello, I'm Agustín, or AGUSTINSDFX, the mind behind my projects.
 <br>
-Minegold and Platform. I'm from Argentina and I speak three languages.
+I'm from Argentina and I speak three languages.
 
 I create programs, games, and modify projects purely for fun and as a
 <br>
